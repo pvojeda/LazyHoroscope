@@ -36,7 +36,7 @@ cout<<"you should keep a low profile\n";
 int len=last.length();
 char let = last[len-1];
 if ((let == 'a') || (let == 'A') || (let == 'e') || (let == 'E') || (let == 'i') || (let == 'I') || (let == 'o') || (let == 'O') || (let == 'u') || (let == 'U'))
-{ '
+{
 cout<<"you have already met your true love.\n";
 }
 cout<<"have a good day!"<<endl;
