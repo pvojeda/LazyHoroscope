@@ -29,7 +29,7 @@ cout<<"you are destined to be famous!\n";
 }
 else
 {
-cout<<"you should keep a low profile\n";
+cout<<"you should keep a low profile.\n";
 }
 
 int len=last.length();
